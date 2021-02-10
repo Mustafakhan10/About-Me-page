@@ -1,0 +1,27 @@
+body {
+background-color: #f4f4f4;
+color: #555555;
+line-height: 2em;
+font-size: 18px;
+}
+
+img {
+float: right;
+}
+* {
+    box-sizing: border-box;
+  }
+.leftcolumn {
+    background-color: #aaaaaa;
+    float:left;
+    padding: 10%;
+    width: 50%;
+    height: 100%;
+}
+.rightcolumn {
+    background-color: #bbbbbb;
+    padding: 10%;
+    width: 50%;
+    float:right;
+    height: 100;
+}
